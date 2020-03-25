@@ -40,3 +40,4 @@ Let’s use this space to organize info about solutions explored by the global m
   We are in urgent need of funds to help our makers and providers. This is a non-profit community and we need all the help we can get. Please send an email with [Funding] in Subject line to makers.covid19.india@gmail.com            
 
 
+[Open Projects]([projects.md)
